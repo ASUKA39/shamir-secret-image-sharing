@@ -10,6 +10,8 @@ Requirements:
 - pypng
 
 ### Running
+Change the secret image path, saving path, number of sub-secret images `n` and quorum in `src_256.py` or `src_257.py` to your own secret image path. Then run the following command in your terminal:
+
 For original algorithm implementation:
 ```bash
 python src_256.py
