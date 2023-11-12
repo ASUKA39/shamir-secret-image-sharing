@@ -41,3 +41,5 @@ To solve this problem, we can times a modular inverse of 257 instead of dividing
 The following is the result of rebuilding the secret from 5 random sub-secrets:
 - Splitting image into 10 sub-secrets and rebuilding it from 5 random sub-secrets:
 ![](./img/Figure_3.png)
+- And this is the detail of the difference between the result with pixels recovery and the result without pixels recovery:
+![](./img/Figure_4.png)
