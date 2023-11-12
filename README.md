@@ -22,7 +22,7 @@ For extended algorithm implementation:
 ```bash
 python src_257.py
 ```
-- This algorithm supports support secret rebuilding from any sub-secrets number by saving pixels index which RGB values are not in 0-255 range after Shamir's Secret Sharing algorithm.
+- This algorithm supports secret rebuilding from any sub-secrets number by saving pixels index which RGB values are not in 0-255 range after Shamir's Secret Sharing algorithm.
 
 ## Examples
 ### Original Algorithm
