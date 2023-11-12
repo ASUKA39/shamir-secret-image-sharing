@@ -1,3 +1,5 @@
 *.docx
 *.zip
 img/test.py
+作业*
+.gitignore
